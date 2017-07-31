@@ -160,9 +160,9 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-dagre@drgould/dagre#bb62ce8:
+dagre@drgould/dagre#cd45bec:
   version "1.0.8"
-  resolved "https://codeload.github.com/drgould/dagre/tar.gz/bb62ce8"
+  resolved "https://codeload.github.com/drgould/dagre/tar.gz/cd45bec"
   dependencies:
     ciena-graphlib "^1.0.0"
     lodash "^4.15.0"

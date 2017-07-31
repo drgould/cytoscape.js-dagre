@@ -29,7 +29,7 @@
     "run-sequence": "^1.0.0"
   },
   "dependencies": {
-    "dagre": "drgould/dagre#bb62ce8"
+    "dagre": "drgould/dagre#cd45bec"
   },
   "peerDependencies": {
     "cytoscape": "^2.4.0 || ^3.0.0"
